@@ -28,9 +28,13 @@ Ejercicio1: invertir el String "COMPUTACION", solo usando pilas
 Imagenes Ejercio1:
 
 - metodo
+
 ![alt text](assets/metodo.png)
+
 - app
+
 ![alt text](assets/app.png)
+
 - ejecución 
 
 ![alt text](assets/ejecucion.png)
@@ -48,9 +52,13 @@ Ejercicio2: Crear un metodo en el cual comprube si una palabra es polindromo sol
 Imagenes Ejercio2:
 
 - metodo
+
 ![alt text](assets/metodo2.png)
+
 - app
+
 ![alt text](assets/app2.png)
+
 - ejecución 
 
 ![alt text](assets/ejecucion2.png)
