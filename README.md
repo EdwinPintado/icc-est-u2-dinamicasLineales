@@ -19,7 +19,28 @@ Estas son las estructuras dinamicas lineales:
 - Pilas con Stack y Deque
 - Colas con queue
 
+---
+
+**Fecha:** 08/06/2026
+
 Ejercicio1: invertir el String "COMPUTACION", solo usando pilas 
 
-Imagen Ejercio1
-![alt text](assets/image.png)
+Imagenes Ejercio1
+![alt text](assets/metodo.png)
+![alt text](assets/app.png)
+![alt text](assets/ejecucion.png)
+
+---
+
+**Fecha:** 10/06/2026
+
+Ejercicio2: Crear un metodo en el cual comprube si una palabra es polindromo solo usando pilas 
+
+Palabra1: "radar"
+Palabra2: "computacion"
+Palabra propia para validar con mayusculas: "Radar"
+
+Imagenes Ejercio2
+![alt text](assets/metodo2.png)
+![alt text](assets/app2.png)
+![alt text](assets/ejecucion2.png)

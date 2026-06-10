@@ -10,10 +10,40 @@ public class App {
         runQueue(); // Colas
         runStack(); // Pilas
 
+        System.out.println("\n---- EJERCICIO 1 ----\n");
         Ejercicio1 ejercicio1 = new Ejercicio1();
         String texto = "COMPUTACION";
         String invertido = ejercicio1.invertString(texto);
         System.out.println(invertido);
+
+
+
+        System.out.println("\n---- EJERCICIO 2 ----\n");
+        {
+        System.out.println("Primer inteto con (radar)");
+        Ejercicio2 ejercicio2 = new Ejercicio2();
+        String texto1 = "radar";
+        texto = texto1.toLowerCase();
+        boolean esPolindromo = ejercicio2.esPalindromo(texto);
+        System.out.println(esPolindromo);
+        }
+        {
+        System.out.println("\nSegundo inteto con (computacion)");
+        Ejercicio2 ejercicio2 = new Ejercicio2();
+        String texto2 = "computacion";
+        texto = texto2.toLowerCase();
+        boolean esPolindromo = ejercicio2.esPalindromo(texto);
+        System.out.println(esPolindromo);
+        }
+        {
+        System.out.println("\nTercer inteto con (Radar)");
+        Ejercicio2 ejercicio2 = new Ejercicio2();
+        String texto3 = "Radar";
+        texto = texto3.toLowerCase();
+        boolean esPolindromo = ejercicio2.esPalindromo(texto);
+        System.out.println(esPolindromo);
+        }
+
     }
 
     private static void runStack() {
