@@ -36,9 +36,9 @@ Imagenes Ejercio1
 
 Ejercicio2: Crear un metodo en el cual comprube si una palabra es polindromo solo usando pilas 
 
-Palabra1: "radar"
-Palabra2: "computacion"
-Palabra propia para validar con mayusculas: "Radar"
+- Palabra1: "radar"
+- Palabra2: "computacion"
+- Palabra propia para validar con mayusculas: "Radar"
 
 Imagenes Ejercio2
 ![alt text](assets/metodo2.png)
